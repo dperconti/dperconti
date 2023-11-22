@@ -1,6 +1,5 @@
 ![MasterHead](https://github.com/dperconti/dperconti/assets/1742882/c212d794-7142-446d-b7a5-8bb4658dbe5a)
 # Hi 👋, I'm Donato
----
 
 - 🔭 I’m currently working on [Heard](https://www.joinheard.com/) as the Head of Engineering
 - 🌱 I’m currently learning tRPC, Prisma, and more advanced Docker strategies.
@@ -18,11 +17,9 @@
 
 
 ## Connect with me:
----
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](htts://www.instagram.com/dperconti) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dperconti/)
 
 ## Languages and Tools:
----
 
 **🤖 Artificial Intelligence and Bots**
 
