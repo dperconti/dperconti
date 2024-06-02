@@ -1,10 +1,10 @@
-![MasterHead](https://github.com/dperconti/dperconti/assets/1742882/c212d794-7142-446d-b7a5-8bb4658dbe5a)
+![A9983507D3F4E00C5691A6E0202B62055FB523B9627E0A5AB05D38612058BF55](https://github.com/dperconti/dperconti/assets/1742882/e84e1a0c-3645-4884-9cc9-1921094dfe2b)
 # Hi 👋, I'm Donato
 
 - 🔭 I’m currently working on [Heard](https://www.joinheard.com/) as the Head of Engineering
-- 🌱 I’m currently learning tRPC, Prisma, and more advanced Docker strategies.
-- 🏦 I've worked at some pretty cool (and some more challanging than other 😅) Fintech-related companies.
-  - [Ness](https://www.neswell.com/) - HoE. Consumer Credit Card with Health & Wellness Benefit
+- 🌱 I’m learning tRPC, Prisma, and more advanced Docker strategies.
+- 🏦 I've worked at some pretty cool Fintech-related companies.
+  - [Ness](https://www.neswell.com/) - HoE. Consumer Credit Card with Health & Wellness Benefits
   - [Skillshare](https://www.Skillshare.com/) - IC. Revenue Recognition & e-commerce
   - [lululemon](https://www.lululemon.com/) - IC. e-commerce (BOPIS)
   - [Paylasso](https://www.bizjournals.com/portland/news/2016/12/09/portlands-paylasso-wants-to-help-companies-corral.html) - Founder. B2B Credit Card for expense management
