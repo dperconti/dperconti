@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Pangea](https://www.pangea.io/) as the Head of Engineering
 - 🌱 I’m learning tRPC, Prisma, and more advanced Docker strategies.
 - 🏦 I've worked at some pretty cool Fintech-related companies.
-  - [Heard](https://www.joinheard.com/) Head of Engineering | Tax & Back Office Software for Mental Health Therapists
+  - [Heard](https://www.joinheard.com/) - Head of Engineering | Tax & Back Office Software for Mental Health Therapists
   - [Ness](https://www.neswell.com/) - Head of Engineering | Consumer Credit Card with Health & Wellness Benefits
   - [Mercury](https://www.mercury.com/🤮) - Manager. Banking Integrations & Operations
   - [Skillshare](https://www.Skillshare.com/) - IC. Revenue Recognition & e-commerce
