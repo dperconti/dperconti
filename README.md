@@ -1,15 +1,16 @@
 ![A9983507D3F4E00C5691A6E0202B62055FB523B9627E0A5AB05D38612058BF55](https://github.com/dperconti/dperconti/assets/1742882/e84e1a0c-3645-4884-9cc9-1921094dfe2b)
 # Hi 👋, I'm Donato
 
-- 🔭 I’m currently working on [Heard](https://www.joinheard.com/) as the Head of Engineering
+- 🔭 I’m currently working on [Pangea](https://www.pangea.io/) as the Head of Engineering
 - 🌱 I’m learning tRPC, Prisma, and more advanced Docker strategies.
 - 🏦 I've worked at some pretty cool Fintech-related companies.
-  - [Ness](https://www.neswell.com/) - HoE. Consumer Credit Card with Health & Wellness Benefits
+  - [Heard](https://www.joinheard.com/) Head of Engineering | Tax & Back Office Software for Mental Health Therapists
+  - [Ness](https://www.neswell.com/) - Head of Engineering | Consumer Credit Card with Health & Wellness Benefits
+  - [Mercury](https://www.mercury.com/🤮) - Manager. Banking Integrations & Operations
   - [Skillshare](https://www.Skillshare.com/) - IC. Revenue Recognition & e-commerce
   - [lululemon](https://www.lululemon.com/) - IC. e-commerce (BOPIS)
   - [Paylasso](https://www.bizjournals.com/portland/news/2016/12/09/portlands-paylasso-wants-to-help-companies-corral.html) - Founder. B2B Credit Card for expense management
-  - [Mercury](https://www.mercury.com/🤮) - Manager. Banking Integrations & Operations
-- 👯 I’m looking to collaborate on 0 -> 1 startups in the fintech space.
+- 👯 I want to collaborate on 0 -> 1 startups in the fintech space.
 - 💬 Ask me about Engineering Leadership, Management Principles, Intrinsic Motivation, and Empathetic Mentorship
 - 🌬️ Personally, I'm learning wing foiling and becoming a better MTBer and skier.
 - 😄 Pronouns: he/him/his
