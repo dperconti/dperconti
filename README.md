@@ -1,19 +1,100 @@
 ![A9983507D3F4E00C5691A6E0202B62055FB523B9627E0A5AB05D38612058BF55](https://github.com/dperconti/dperconti/assets/1742882/e84e1a0c-3645-4884-9cc9-1921094dfe2b)
-# Hi 👋, I'm Donato
 
-- 🔭 I’m currently working on [Pangea](https://www.pangea.io/) as the Head of Engineering
-- 🌱 I’m learning tRPC, Prisma, and more advanced Docker strategies.
-- 🏦 I've worked at some pretty cool Fintech-related companies.
-  - [Heard](https://www.joinheard.com/) - Head of Engineering | Tax & Back Office Software for Mental Health Therapists
-  - [Ness](https://www.neswell.com/) - Head of Engineering | Consumer Credit Card with Health & Wellness Benefits
-  - [Mercury](https://www.mercury.com/🤮) - Manager. Banking Integrations & Operations
-  - [Skillshare](https://www.Skillshare.com/) - IC. Revenue Recognition & e-commerce
-  - [lululemon](https://www.lululemon.com/) - IC. e-commerce (BOPIS)
-  - [Paylasso](https://www.bizjournals.com/portland/news/2016/12/09/portlands-paylasso-wants-to-help-companies-corral.html) - Founder. B2B Credit Card for expense management
-- 👯 I want to collaborate on 0 -> 1 startups in the fintech space.
-- 💬 Ask me about Engineering Leadership, Management Principles, Intrinsic Motivation, and Empathetic Mentorship
-- 🌬️ Personally, I'm learning wing foiling and becoming a better MTBer and skier.
-- 😄 Pronouns: he/him/his
+# Hi 👋, I'm Donato Perconti
+
+**Head of Engineering | Fintech Expert | Engineering Leadership Consultant**
+
+Experienced engineering leader specializing in fintech, banking integrations, and building high-performing engineering teams. Currently leading engineering at [Pangea](https://www.pangea.io/), with a proven track record scaling engineering organizations at early-stage fintech startups.
+
+## 🎯 What I Do
+
+**Engineering Leadership & Management**
+- Building and scaling engineering teams from 0 to 1
+- Engineering management and leadership consulting
+- Team culture development and mentorship
+- Technical strategy and architecture guidance
+
+**Fintech & Banking Expertise**
+- Banking integrations and operations
+- Payment systems and processing
+- Financial technology solutions
+- B2B and consumer fintech products
+
+**Technical Consulting**
+- Full-stack development (React, Node.js, Python, TypeScript)
+- System architecture and design
+- API development and integrations
+- DevOps and infrastructure (AWS, Docker, CI/CD)
+
+## 💼 Current Role
+
+🔭 **Head of Engineering** at [Pangea](https://www.pangea.io/) - Leading engineering initiatives and building innovative solutions
+
+## 🌱 Currently Learning
+
+- tRPC and modern TypeScript patterns
+- Prisma ORM and database optimization
+- Advanced Docker strategies and containerization
+- Engineering leadership best practices
+
+## 🏦 Professional Experience
+
+**Fintech & Financial Services**
+- **[Heard](https://www.joinheard.com/)** - Head of Engineering | Tax & Back Office Software for Mental Health Therapists
+- **[Ness](https://www.neswell.com/)** - Head of Engineering | Consumer Credit Card with Health & Wellness Benefits
+- **[Mercury](https://www.mercury.com/)** - Manager, Banking Integrations & Operations
+- **[Paylasso](https://www.bizjournals.com/portland/news/2016/12/09/portlands-paylasso-wants-to-help-companies-corral.html)** - Founder | B2B Credit Card for Expense Management
+
+**E-commerce & SaaS**
+- **[Skillshare](https://www.Skillshare.com/)** - Individual Contributor | Revenue Recognition & E-commerce
+- **[lululemon](https://www.lululemon.com/)** - Individual Contributor | E-commerce (BOPIS - Buy Online Pickup In Store)
+
+## 🚀 Services & Collaboration
+
+- 👯 **Available for collaboration** on 0 → 1 startups in the fintech space
+- 💬 **Consulting** on Engineering Leadership, Management Principles, Intrinsic Motivation, and Empathetic Mentorship
+- 🎓 **Mentorship** for engineering leaders and technical teams
+- 🔧 **Technical consulting** for fintech projects, banking integrations, and payment systems
+
+## 📁 Projects
+
+**Health & Wellness Technology**
+
+- **[With Light AI](https://withlight.ai/)** | [GitHub](https://github.com/bewithlight) - DBT & AI-powered emotional wellness app. Track emotions, access personalized DBT tools, and build resilience with guided AI coaching.
+
+**Fintech & Financial Services**
+
+- **[Meet Deb](http://meetdeb.com/)** | [GitHub](https://github.com/meetdeb) - Intelligent Debt Strategy platform. Smart debt management and financial planning tools.
+- **[Willow Finance](https://www.willow.finance/)** | [GitHub](https://github.com/Willow-Finance) - Financial technology solutions and services.
+
+**Engineering & Consulting**
+
+- **[PNW Technology](https://pnw.technology/)** | [GitHub](https://github.com/pnwtech) - Engineering leadership consulting. Fractional CTO services, technical due diligence, and team assessments for startups and scale-ups.
+
+**Other Projects**
+
+- **[TrunkMatch](https://www.trunkmatch.com/)** | [GitHub](https://github.com/TrunkMatch) - Platform and services.
+- **[With Aevum](https://withaevum.com/)** | [GitHub](https://github.com/getaevum) - Platform and services.
+- **[Mend Bloom](https://www.mendbloom.com/)** | [GitHub](https://github.com/mendbloom) - Platform and services.
+
+## 💬 Topics I Can Help With
+
+- Engineering Leadership & Management
+- Building High-Performing Teams
+- Fintech & Banking Technology
+- Payment Systems & Integrations
+- Technical Architecture & Design
+- Startup Engineering (0 → 1)
+- Intrinsic Motivation & Team Culture
+- Empathetic Mentorship & Coaching
+
+## 🌬️ Personal Interests
+
+When I'm not coding or leading teams, I'm learning wing foiling and improving my mountain biking and skiing skills.
+
+## 😄 Pronouns
+
+he/him/his
 
 
 
@@ -76,3 +157,27 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 ![Donato's GitHub stats](https://github-readme-stats.vercel.app/api?username=dperconti&count_private=true&show_icons=true&theme=onedark)
+
+---
+
+## 🔍 Keywords & Expertise Areas
+
+**Engineering Leadership:** Engineering Management | Head of Engineering | VP Engineering | Technical Leadership | Team Building | Engineering Culture | Mentorship | Engineering Strategy
+
+**Fintech & Banking:** Fintech | Banking Technology | Payment Systems | Banking Integrations | Financial Technology | Payment Processing | Credit Cards | Expense Management | Revenue Recognition | B2B Payments | Consumer Fintech
+
+**Technical Skills:** Full-Stack Development | TypeScript | JavaScript | Python | React | Node.js | API Development | System Architecture | DevOps | AWS | Docker | CI/CD | Database Design | Microservices
+
+**Startup & Business:** Startup Engineering | 0 to 1 | Early-Stage Startups | Product Development | Technical Consulting | Engineering Consulting | Fintech Consulting
+
+**Companies:** Pangea | Heard | Ness | Mercury | Skillshare | lululemon | Paylasso
+
+---
+
+## 📊 GitHub Activity
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dperconti&layout=compact&theme=onedark)
+
+---
+
+**Keywords:** Engineering Leader | Fintech Expert | Head of Engineering | Engineering Management | Banking Technology | Payment Systems | Technical Consultant | Startup Engineering | React Developer | TypeScript | Node.js | Python | Full-Stack Developer | Engineering Mentor | Fintech Consultant
